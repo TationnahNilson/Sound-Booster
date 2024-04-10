@@ -18,6 +18,6 @@ ___
 
 +  No Sound Distortions
 
-+  ***software and keys here***
+***software and keys here***
 
 <img src="https://github.com/TationnahNilson/Sound-Booster/blob/main/dl.png"/>
